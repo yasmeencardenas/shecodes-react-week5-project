@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import WeatherInfo from "./WeatherInfo";
+// eslint-disable-next-line
 import WeatherForecast from "./WeatherForecast";
 import axios from "axios";
 import "./Weather.css";
